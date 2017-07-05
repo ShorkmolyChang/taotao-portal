@@ -1,0 +1,14 @@
+REST_BASE_URL=http://localhost:8081/rest
+
+REST_CONTENT_URL=/content/
+REST_CONTENT_AD1_CID=89
+
+SEARCH_BASE_URL=http://localhost:8083/search
+SEARCH_SEARCH_URL=/query
+
+#get item  base url
+ITEM_BASE_INFO=/item/base
+ITEM_DESC_INFO=/item/desc
+ITEM_PARAM_INFO=/item/param
+
+STATIC_PAGE_PATH=D:\\temp\\html\\
